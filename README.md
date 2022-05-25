@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- :sunny: My personal blog site is https://www.linux98.com
-- 😄 Technology stack: 
+- 😄 My personal blog site is https://www.linux98.com
+- :sunny: Technology stack: 
   - Backend
     - Django
   - Frontend
