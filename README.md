@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 
 - :sunny: My personal blog site is https://www.linux98.com
-- 
+- 😄 Technology stack: 
+  - Backend
+    - Django
+  - Frontend
+    - vue 2.0
+    - element-ui
+    - ant design of vue pro
+
+
 
 
